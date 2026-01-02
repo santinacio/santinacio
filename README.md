@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 20-year-old third-year student of Computer Engineering and Computing, and I am a member of the Computer Science Group of the FEUP Student Association. Throughout my academic career, I have acquired skills in various languages and technologies, namely Python, C, C++, HTML, CSS, PHP, Laravel, SQL, and Java.<br>I am eager to learn new languages, technologies and tools. I have been a swimming referee.<br><br>
+I am a 20-year-old third-year student of Computer Engineering and Computing, and I am a member of the Computer Science Group of the FEUP Student Association. Throughout my academic career, I have acquired skills in various languages and technologies, such as Python, C, C++, HTML, CSS, PHP, Laravel, SQL, Java and more.<br>I am eager to learn new languages, technologies and tools. I have been a swimming referee.<br><br>
 
 
 ## 🌐 Socials:
